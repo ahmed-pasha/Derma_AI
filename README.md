@@ -315,6 +315,27 @@ ML API:
 http://localhost:8000
 ```
 
+
+🔐 Trained ML Models & Datasets
+
+The ML source code and inference architecture are available in this repository for educational and development purposes.
+
+The trained model weights, specialized datasets, and custom-trained ML models may not be included in the public repository.
+
+If you need:
+
+🧠 Trained skin disease classification models
+📊 Skin disease datasets
+⚙️ Custom ML model training
+🔄 Model fine-tuning
+🚀 ML model deployment
+🌐 FastAPI ML APIs
+🤖 Custom AI/ML development
+
+📩 Contact: devoralaab@gmail.com
+
+I'm available for custom ML model development, model training, datasets, and AI/ML project development.
+
 ---
 
 # 🔌 API Architecture
